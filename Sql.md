@@ -1,4 +1,4 @@
-[Click-Here](https://www.sql-practice.com/)
+[Click-Here for Practice Site](https://www.sql-practice.com/)
 
 	1. Show first name, last name, and gender of patients who's gender is 'M'
 		SELECT first_name, last_name, gender From patients where gender='M'
